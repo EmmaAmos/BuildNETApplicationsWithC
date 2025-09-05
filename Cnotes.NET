@@ -3,3 +3,9 @@ Console.Write(" ");
 Console.Write("Congrats");
 Console.Write(" ");
 Console.Write("You wrote your first lines of code");
+
+//GET: Retrieve data from the web service.
+//POST: Create a new item of data on the web service.
+//PUT: Update an item of data on the web service.
+//PATCH: Update an item of data on the web service by describing a set of instructions about how the item should be modified. The sample application in this module doesn't use this verb.
+//DELETE: Delete an item of data on the web service.
